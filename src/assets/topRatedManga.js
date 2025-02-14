@@ -1,5 +1,18 @@
 export default [
   {
+    title: 'One Punch Man',
+    artist: ['Yusuke Murata'],
+    author: ['ONE'],
+    description:
+      "One Punch Man est un manga japonais créé par ONE et illustré par Yusuke Murata.",
+    views: 99999999899,
+    id: '32d76d19-8a05-4db0-9fc2-e0b0648fe9d0',
+    rating: {
+      bayesian: '10.00',
+    },
+    mainCover: 'https://fr.web.img6.acsta.net/pictures/17/02/27/17/41/046707.jpg',
+  },
+  {
     title: 'Detective Conan',
     artist: ['Denjiro Maru'],
     author: ['Gosho Aoyama'],
@@ -23,7 +36,21 @@ export default [
     rating: {
       bayesian: '9.37',
     },
-    mainCover: 'https://static.fnac-static.com/multimedia/Images/FR/NR/78/c8/59/5884024/1507-1/tsp20140711140123/Aaination-claroom.jpg',
+    mainCover: 'https://m.media-amazon.com/images/I/61hHZvt7ytL.jpg',
+  },
+  
+  {
+    title: 'Blue Period',
+    artist: ['Yamaguchi Tsubasa'],
+    author: ['Yamaguchi Tsubasa'],
+    description:
+      'In his second to last year of high school, the dispassionate but studious, Yatora Yaguchi finally finds a calling in art. With no prior art experience, he decides to work towards applying to an art university.  A decision with potentially disastrous results.\r\n[hr][u][b]Russian / Русский:[/b][/u]\r\n[spoiler]Можно ли увлечься чем-то настолько, что ради этого вдруг решишь свернуть с намеченного ранее жизненного пути? Если вдруг поймешь, что выбранная до этого дорога, хоть и сулила благополучие в будущем, но не отражала истинного желания?\r\nС виду безалаберный Ятора Ягути на удивление своих друзей-разгильдяев преуспел в учёбе и по окончании школы мог поступить почти в любой университет. Однако сам парень большой радости от этого не испытывал. Велика задача &mdash; подтянуть предметы, нужно только приложить немного больше усилий, чем остальные. Скучно. Да и по мнению парня, гордиться тут нечем...\r\nЖгучая потребность в самореализации и отсутствие очевидного способа самовыражения так и довлели бы над Яторой, если бы однажды вечером пагубная привычка не привела его в школьный клуб изобразительного искусства. Увидев там картину Мори, он решает попробовать запечатлеть на холсте приглянувшийся ему городской пейзаж. Неумелая, нелепая, но старательно написанная картина всё же достигает сердец некоторых людей, и парень понимает, что таким образом, через искусство, может по-настоящему общаться с другими.\r\nТак стоит ли ради этого сворачивать с намеченного пути, даже если, вполне возможно, эта другая дорога в конце концов приведёт к пропасти?[/spoiler]\r\n[hr][b]Links:[/b]\r\n[*][url=https://twitter.com/28_3][img]https://i.imgur.com/dQCXZkU.png[/img] Artist&rsquo;s Twitter[/url]\r\n[*][url=https://www.pixiv.net/member.php?id=200342][img]https://i.imgur.com/oiVINmy.png[/img] Artist&rsquo;s Pixiv[/url]\r\n\r\nWinner of the 13th Manga Taisho Award in 2020.\r\nWinner of the 44th Kodansha Manga Awards for best general manga in 2020.\r\n\r\n[*][url=https://twitter.com/blueperiod_pr/status/1351363755209179139?s=21]Anime (Announcement)[/url]',
+    views: 735044,
+    id: 'f8e294c0-7c11-4c66-bdd7-4e25df52bf69',
+    rating: {
+      bayesian: '9.36',
+    },
+    mainCover: 'https://cdn.myanimelist.net/images/manga/2/204827.jpg',
   },
   {
     title:
@@ -39,19 +66,7 @@ export default [
     },
     mainCover: 'https://fr.web.img3.acsta.net/c_310_420/pictures/20/03/10/12/07/4001550.jpg',
   },
-  {
-    title: 'Blue Period',
-    artist: ['Yamaguchi Tsubasa'],
-    author: ['Yamaguchi Tsubasa'],
-    description:
-      'In his second to last year of high school, the dispassionate but studious, Yatora Yaguchi finally finds a calling in art. With no prior art experience, he decides to work towards applying to an art university.  A decision with potentially disastrous results.\r\n[hr][u][b]Russian / Русский:[/b][/u]\r\n[spoiler]Можно ли увлечься чем-то настолько, что ради этого вдруг решишь свернуть с намеченного ранее жизненного пути? Если вдруг поймешь, что выбранная до этого дорога, хоть и сулила благополучие в будущем, но не отражала истинного желания?\r\nС виду безалаберный Ятора Ягути на удивление своих друзей-разгильдяев преуспел в учёбе и по окончании школы мог поступить почти в любой университет. Однако сам парень большой радости от этого не испытывал. Велика задача &mdash; подтянуть предметы, нужно только приложить немного больше усилий, чем остальные. Скучно. Да и по мнению парня, гордиться тут нечем...\r\nЖгучая потребность в самореализации и отсутствие очевидного способа самовыражения так и довлели бы над Яторой, если бы однажды вечером пагубная привычка не привела его в школьный клуб изобразительного искусства. Увидев там картину Мори, он решает попробовать запечатлеть на холсте приглянувшийся ему городской пейзаж. Неумелая, нелепая, но старательно написанная картина всё же достигает сердец некоторых людей, и парень понимает, что таким образом, через искусство, может по-настоящему общаться с другими.\r\nТак стоит ли ради этого сворачивать с намеченного пути, даже если, вполне возможно, эта другая дорога в конце концов приведёт к пропасти?[/spoiler]\r\n[hr][b]Links:[/b]\r\n[*][url=https://twitter.com/28_3][img]https://i.imgur.com/dQCXZkU.png[/img] Artist&rsquo;s Twitter[/url]\r\n[*][url=https://www.pixiv.net/member.php?id=200342][img]https://i.imgur.com/oiVINmy.png[/img] Artist&rsquo;s Pixiv[/url]\r\n\r\nWinner of the 13th Manga Taisho Award in 2020.\r\nWinner of the 44th Kodansha Manga Awards for best general manga in 2020.\r\n\r\n[*][url=https://twitter.com/blueperiod_pr/status/1351363755209179139?s=21]Anime (Announcement)[/url]',
-    views: 735044,
-    id: 'f8e294c0-7c11-4c66-bdd7-4e25df52bf69',
-    rating: {
-      bayesian: '9.36',
-    },
-    mainCover: 'https://cdn.myanimelist.net/images/manga/2/204827.jpg',
-  },
+  
   {
     title: 'Berserk',
     artist: ['Miura Kentaro'],

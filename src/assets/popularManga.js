@@ -7,7 +7,7 @@ export default [
     description:
       "Jujutsu Kaisen est un manga japonais créé par Gege Akutami.",
     views: 5346518414513434,
-    id: 'a96676e5-8ae2-425e-b549-7f15dd34a6d8',
+    id: '700004',
     rating: {
       bayesian: '10.00',
     },
@@ -40,16 +40,16 @@ export default [
     mainCover: 'https://fr.web.img2.acsta.net/pictures/22/11/22/14/02/3642167.jpg',
   },
   {
-    title: 'One Punch Man',
-    artist: ['Yusuke Murata'],
-    author: ['ONE'],
+    title: 'Black Clover',
+    artist: ['Yūki Tabata'],
+    author: ['Yūki Tabata'],
     description:
-      "One Punch Man est un manga japonais créé par ONE et illustré par Yusuke Murata.",
-    views: 99999999899,
+      "Black Clover est un manga japonais créé par ONE et illustré par Yūki Tabata.",
+    views: 9999999989999999,
     id: '32d76d19-8a05-4db0-9fc2-e0b0648fe9d0',
     rating: {
       bayesian: '10.00',
     },
-    mainCover: 'https://fr.web.img6.acsta.net/pictures/17/02/27/17/41/046707.jpg',
+    mainCover: 'https://m.media-amazon.com/images/I/91EfckNoxRL._AC_UF1000,1000_QL80_.jpg',
   },
 ];
