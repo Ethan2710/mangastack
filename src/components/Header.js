@@ -240,7 +240,7 @@ const Header = ({
             </form>
           </div>
           <IconButton
-            color="blacks"
+            color="white"
             aria-label="open drawer"
             edge="end"
             onClick={() => setSidebarOpen(true)}
@@ -266,7 +266,7 @@ const Header = ({
               }
             />
           }
-          label="Enable Dark Mode"
+          label="Mode foncé"
         />
         <Divider />
         <List
