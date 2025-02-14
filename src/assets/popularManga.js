@@ -1,17 +1,5 @@
 export default [
-  {
-    title: 'One Punch Man',
-    artist: ['Yusuke Murata'],
-    author: ['ONE'],
-    description:
-      "One Punch Man est un manga japonais créé par ONE et illustré par Yusuke Murata.",
-    views: 99999999899,
-    id: '32d76d19-8a05-4db0-9fc2-e0b0648fe9d0',
-    rating: {
-      bayesian: '10.00',
-    },
-    mainCover: 'https://fr.web.img6.acsta.net/pictures/17/02/27/17/41/046707.jpg',
-  },
+  
   {
     title: 'Jujutsu Kaisen',
     artist: ['Gege Akutami'],
@@ -50,5 +38,18 @@ export default [
       bayesian: '10',
     },
     mainCover: 'https://fr.web.img2.acsta.net/pictures/22/11/22/14/02/3642167.jpg',
+  },
+  {
+    title: 'One Punch Man',
+    artist: ['Yusuke Murata'],
+    author: ['ONE'],
+    description:
+      "One Punch Man est un manga japonais créé par ONE et illustré par Yusuke Murata.",
+    views: 99999999899,
+    id: '32d76d19-8a05-4db0-9fc2-e0b0648fe9d0',
+    rating: {
+      bayesian: '10.00',
+    },
+    mainCover: 'https://fr.web.img6.acsta.net/pictures/17/02/27/17/41/046707.jpg',
   },
 ];
