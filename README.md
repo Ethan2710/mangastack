@@ -16,8 +16,13 @@ Currently, the backend is hosted on Heroku free tier, which can sometimes lead t
 <br>
 
 ## Project Setup
-Pour installer le site
+Pour Préparer ton Ordi
 
+- Installer Visual Studio Code : https://code.visualstudio.com/
+- Installer Git https://git-scm.com/download/win
+- Installer NodeJS : https://nodejs.org/dist/v22.14.0/node-v22.14.0-x64.msi
+
+Pour installer le site
 - git clone https://github.com/Ethan2710/stage.git
 - renommer package-pour-install.json en package.json (tu peux écraser l'autre version)
 - npm install
