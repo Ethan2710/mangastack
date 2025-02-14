@@ -37,7 +37,7 @@ export default [
     rating: {
       bayesian: '9.33',
     },
-    mainCover: 'https://mangadex.org/images/manga/6272.jpg',
+    mainCover: 'https://fr.web.img3.acsta.net/c_310_420/pictures/20/03/10/12/07/4001550.jpg',
   },
   {
     title: 'Blue Period',
