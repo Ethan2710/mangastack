@@ -15,7 +15,7 @@ Currently, the backend is hosted on Heroku free tier, which can sometimes lead t
 
 <br>
 
-## Project Status
+## Project Setup
 Pour installer le site
 
 - git clone https://github.com/Ethan2710/stage.git
