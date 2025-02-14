@@ -16,6 +16,15 @@ Currently, the backend is hosted on Heroku free tier, which can sometimes lead t
 <br>
 
 ## Project Status
+Pour installer le site
+
+git clone https://github.com/Ethan2710/stage.git
+renommer package-pour-install.json en package.json (tu peux écraser l'autre version)
+npm install
+npm audit fix --force
+npm run start
+
+## Project Status
 
 Currently being reworked to use MangaDex's [new V5 API](https://api.mangadex.org/docs.html). The V2 API, which this site originally used, is no longer available.
 
