@@ -1,42 +1,43 @@
 export default [
   {
-    title: 'Sousou no Frieren',
-    artist: ['Abe Tsukasa'],
-    author: ['Yamada Kanehito'],
+    title: 'Detective Conan',
+    artist: ['Denjiro Maru'],
+    author: ['Gosho Aoyama'],
     description:
-      "The adventure is over but life goes on for an elf mage just beginning to learn what living is all about. Elf mage Frieren and her courageous fellow adventurers have defeated the Demon King and brought peace to the land. With the great struggle over, they all go their separate ways to live a quiet life. But as an elf, Frieren, nearly immortal, will long outlive the rest of her former party. How will she come to terms with the mortality of her friends? How can she find fulfillment in her own life, and can she learn to understand what life means to the humans around her? Frieren begins a new journey to find the answer.\r\n\r\n[url=https://twitter.com/abetsukasa]Artist's twitter[/url]",
-    views: 2993789,
+      "Detective Conan est un manga japonais créé par Gosho Aoyama.",
+    views: 1698463846313,
     id: 'b0b721ff-c388-4486-aa0f-c2b0bb321512',
     rating: {
-      bayesian: '9.40',
+      bayesian: '9.99',
     },
-    mainCover: 'https://cdn.myanimelist.net/images/manga/3/232121.jpg',
+    mainCover: 'https://www.manga-news.com/public/images/series/.detective-conan-manga-volume1_medium.webp',
   },
   {
-    title: 'Jumyou wo Kaitotte Moratta. Ichinen ni Tsuki, Ichimanen de.',
-    artist: ['Taguchi Shouichi'],
-    author: ['Taguchi Shouichi', 'Miaki Sugaru'],
+    title: 'Assassination Classroom',
+    artist: ['Yusei Matsui'],
+    author: ['Yusei Matsui'],
     description:
-      "A twenty-year-old with little hope for the future discovers a shop that buys lifespan, time, and health. This is a story dealing with the ensuing consequences.\r\n\r\n[b][u]Ukrainian/Українська[/u][/b]\r\n[spoiler]Бідний і голодний 20-річний Кусунокі знаходить магазин, який купляє у людей життя, час або здоров'я. Почувши, що його життя оцінене в мінімальні десять тисяч єн за рік, він продає усе своє життя, лишивши собі три місяці, щоб насолодитися отриманими грошима.[/spoiler]\r\n\r\n[b][u]Russian/Pусский[/u][/b]\r\n[spoiler]Парень, у которого туго с деньгами, узнает про магазин, где можно продать время жизни. Отдав свои года, он в отчаянии приходит к пониманию ценности жизни. \r\nОсновано на новелле &quot;Три дня счастья&quot; от Сугару Мияки.[/spoiler]\r\n[hr][b]Links:[/b]\r\n[*][url=https://yenpress.com/9781975314217/three-days-of-happiness/]Offical English Translation of the Novel[/url]\r\n[*][url=http://vgperson.tumblr.com/post/51261981076/three-days-of-happiness]Original Story[/url]\r\n[*][url=http://vgperson.tumblr.com/post/71910368589/sugaru-miakis-three-days-of-happiness-part-1]Novelization the Manga is Based On[/url]\r\n[*][url=https://www.egmont-manga.de/manga-product/ich-habe-mein-leben-fur-10-000-yen-pro-jahr-verkauft-01/]Official German[/url]",
-    views: 918222,
+      "Assassination Classroom est un manga japonais créé par Yusei Matsui.",
+    views: 22334455661778899,
     id: '9e03b2ca-5191-44a6-88b6-c0cd49d06b51',
     rating: {
       bayesian: '9.37',
     },
-    mainCover: 'https://cdn.myanimelist.net/images/manga/3/197880.jpg',
+    mainCover: 'https://static.fnac-static.com/multimedia/Images/FR/NR/78/c8/59/5884024/1507-1/tsp20140711140123/Aaination-claroom.jpg',
   },
   {
-    title: 'Berserk',
-    artist: ['Miura Kentaro'],
-    author: ['Miura Kentaro'],
+    title:
+      "JoJo's Bizarre Adventure Part 7 - Steel Ball Run (Official Colored)",
+    artist: ['Araki Hirohiko'],
+    author: ['Araki Hirohiko'],
     description:
-      'Guts, known as the Black Swordsman, seeks sanctuary from the demonic forces attracted to him and his woman because of a demonic mark on their necks, and also vengeance against the man who branded him as an unholy sacrifice. Aided only by his titanic strength gained from a harsh childhood lived with mercenaries, a gigantic sword, and an iron prosthetic left hand, Guts must struggle against his bleak destiny, all the while fighting with a rage that might strip him of his humanity.\r\n\r\n[u][*]Won the Award for Excellence at the sixth installment of Tezuka Osamu Cultural Prize in 2002.[/u]\r\n[b]Links to AnimeNewsNetwork:[/b]\r\nMovies:\r\n[*][url=https://www.animenewsnetwork.com/encyclopedia/anime.php?id=12397]The Golden Age Arc I[/url]\r\n[*][url=https://www.animenewsnetwork.com/encyclopedia/anime.php?id=13799]The Golden Age Arc II[/url]\r\n[*][url=https://www.animenewsnetwork.com/encyclopedia/anime.php?id=13800]The Golden Age Arc III[/url]\r\nAnime (2015):\r\n[*][url=https://www.animenewsnetwork.com/encyclopedia/anime.php?id=328]Season 1[/url]\r\n[*][url=https://www.animenewsnetwork.com/encyclopedia/anime.php?id=18160]Season 2[/url]\r\n[*][url=https://www.animenewsnetwork.com/encyclopedia/anime.php?id=19015]Season 3[/url]\r\n\r\n[url=https://shopee.co.th/berserk%E0%B9%80%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%8B%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%81-%E0%B8%9A%E0%B8%B4%E0%B9%8A%E0%B8%81%E0%B8%9A%E0%B8%B8%E0%B8%84-%E0%B9%81%E0%B8%A2%E0%B8%81%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%A1-1-20-%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%AB%E0%B8%99%E0%B8%B6%E0%B9%88%E0%B8%87-i.63434898.1855330863] Official Thai [/url]',
-    views: 2433186,
-    id: '801513ba-a712-498c-8f57-cae55b38cc92',
+      "In the American Old West, the world's greatest race is about to begin. Thousands line up in San Diego to travel over six thousand kilometers for a chance to win the grand prize of fifty million dollars. With the era of the horse reaching its end, contestants are allowed to use any kind of vehicle they wish. Competitors will have to endure grueling conditions, traveling up to a hundred kilometers a day through uncharted wastelands. The Steel Ball Run is truly a one-of-a-kind event.\r\n\r\nThe youthful Johnny Joestar, a crippled former horse racer, has come to San Diego to watch the start of the race. There he encounters Gyro Zeppeli, a racer with two steel balls at his waist instead of a gun. Johnny witnesses Gyro using one of his steel balls to unleash a fantastical power, compelling a man to fire his gun at himself during a duel. In the midst of the action, Johnny happens to touch the steel ball and feels a power surging through his legs, allowing him to stand up for the first time in two years. Vowing to find the secret of the steel balls, Johnny decides to compete in the race, and so begins his bizarre adventure across America on the Steel Ball Run.\r\n\r\nItalian summary:\r\n[Spoiler]Nel west americano, la gara pi&ugrave; grande e importante del mondo sta per iniziare. Migliaia di persone sono pronte a partire da San Diego per viaggiare pi&ugrave; di seimila chilometri incoraggiati da un premio enorme da cinquanta milioni di dollari. L'era dei cavalli sta per finire, i partecipanti allora possono usare il veicolo che preferiscono. I partecipanti devono superare situazioni estenuanti, viaggiando centinaia di chilometri al giorno passando per valli deserte inesplorate. La Steel Ball Run &egrave; unica nel suo genere.\r\n\r\nIl giovane Johnny Joestar, un ex corridore di cavalli disabile, &egrave; venuto a San Diego per vedere la partenza della gara. L&igrave; incontra Gyro Zeppelli, un corridore con due sfere d'acciaio pendenti fino alla sua vita, al posto della pistola. Johnny vede la sfera di Gyro e capisce della sua potenzialit&agrave;, riuscendo a far suicidare il nemico durante un duello. Nel mezzo dell'azione, Johnny tocca la sfera d'acciaio di Gyro e sente passare una potenza nelle sue gambe, questa potenza lo fa alzare in piedi per la prima volta dopo due anni. Dopo aver giurato di capire il segreto di quelle sfere, Johnny decide di partecipare alla gara, e qui iniziano le sue bizzarre avventure per tutta l'America nella Steel Ball Run.[/Spoiler]",
+    views: 1622113,
+    id: 6272,
     rating: {
-      bayesian: '9.37',
+      bayesian: '9.33',
     },
-    mainCover: 'https://cdn.myanimelist.net/images/manga/1/157931.jpg',
+    mainCover: 'https://mangadex.org/images/manga/6272.jpg',
   },
   {
     title: 'Blue Period',
@@ -51,6 +52,20 @@ export default [
     },
     mainCover: 'https://cdn.myanimelist.net/images/manga/2/204827.jpg',
   },
+  {
+    title: 'Berserk',
+    artist: ['Miura Kentaro'],
+    author: ['Miura Kentaro'],
+    description:
+      'Guts, known as the Black Swordsman, seeks sanctuary from the demonic forces attracted to him and his woman because of a demonic mark on their necks, and also vengeance against the man who branded him as an unholy sacrifice. Aided only by his titanic strength gained from a harsh childhood lived with mercenaries, a gigantic sword, and an iron prosthetic left hand, Guts must struggle against his bleak destiny, all the while fighting with a rage that might strip him of his humanity.\r\n\r\n[u][*]Won the Award for Excellence at the sixth installment of Tezuka Osamu Cultural Prize in 2002.[/u]\r\n[b]Links to AnimeNewsNetwork:[/b]\r\nMovies:\r\n[*][url=https://www.animenewsnetwork.com/encyclopedia/anime.php?id=12397]The Golden Age Arc I[/url]\r\n[*][url=https://www.animenewsnetwork.com/encyclopedia/anime.php?id=13799]The Golden Age Arc II[/url]\r\n[*][url=https://www.animenewsnetwork.com/encyclopedia/anime.php?id=13800]The Golden Age Arc III[/url]\r\nAnime (2015):\r\n[*][url=https://www.animenewsnetwork.com/encyclopedia/anime.php?id=328]Season 1[/url]\r\n[*][url=https://www.animenewsnetwork.com/encyclopedia/anime.php?id=18160]Season 2[/url]\r\n[*][url=https://www.animenewsnetwork.com/encyclopedia/anime.php?id=19015]Season 3[/url]\r\n\r\n[url=https://shopee.co.th/berserk%E0%B9%80%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%8B%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%81-%E0%B8%9A%E0%B8%B4%E0%B9%8A%E0%B8%81%E0%B8%9A%E0%B8%B8%E0%B8%84-%E0%B9%81%E0%B8%A2%E0%B8%81%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%A1-1-20-%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%AB%E0%B8%99%E0%B8%B6%E0%B9%88%E0%B8%87-i.63434898.1855330863] Official Thai [/url]',
+    views: 2433186,
+    id: '801513ba-a712-498c-8f57-cae55b38cc92',
+    rating: {
+      bayesian: '9.37',
+    },
+    mainCover: 'https://cdn.myanimelist.net/images/manga/1/157931.jpg',
+  },
+  
   {
     title: 'The Horizon',
     artist: ['Jeong Ji-Hoon'],
@@ -116,18 +131,5 @@ export default [
     },
     mainCover: 'https://mangadex.org/images/manga/10749.jpeg',
   },
-  {
-    title:
-      "JoJo's Bizarre Adventure Part 7 - Steel Ball Run (Official Colored)",
-    artist: ['Araki Hirohiko'],
-    author: ['Araki Hirohiko'],
-    description:
-      "In the American Old West, the world's greatest race is about to begin. Thousands line up in San Diego to travel over six thousand kilometers for a chance to win the grand prize of fifty million dollars. With the era of the horse reaching its end, contestants are allowed to use any kind of vehicle they wish. Competitors will have to endure grueling conditions, traveling up to a hundred kilometers a day through uncharted wastelands. The Steel Ball Run is truly a one-of-a-kind event.\r\n\r\nThe youthful Johnny Joestar, a crippled former horse racer, has come to San Diego to watch the start of the race. There he encounters Gyro Zeppeli, a racer with two steel balls at his waist instead of a gun. Johnny witnesses Gyro using one of his steel balls to unleash a fantastical power, compelling a man to fire his gun at himself during a duel. In the midst of the action, Johnny happens to touch the steel ball and feels a power surging through his legs, allowing him to stand up for the first time in two years. Vowing to find the secret of the steel balls, Johnny decides to compete in the race, and so begins his bizarre adventure across America on the Steel Ball Run.\r\n\r\nItalian summary:\r\n[Spoiler]Nel west americano, la gara pi&ugrave; grande e importante del mondo sta per iniziare. Migliaia di persone sono pronte a partire da San Diego per viaggiare pi&ugrave; di seimila chilometri incoraggiati da un premio enorme da cinquanta milioni di dollari. L'era dei cavalli sta per finire, i partecipanti allora possono usare il veicolo che preferiscono. I partecipanti devono superare situazioni estenuanti, viaggiando centinaia di chilometri al giorno passando per valli deserte inesplorate. La Steel Ball Run &egrave; unica nel suo genere.\r\n\r\nIl giovane Johnny Joestar, un ex corridore di cavalli disabile, &egrave; venuto a San Diego per vedere la partenza della gara. L&igrave; incontra Gyro Zeppelli, un corridore con due sfere d'acciaio pendenti fino alla sua vita, al posto della pistola. Johnny vede la sfera di Gyro e capisce della sua potenzialit&agrave;, riuscendo a far suicidare il nemico durante un duello. Nel mezzo dell'azione, Johnny tocca la sfera d'acciaio di Gyro e sente passare una potenza nelle sue gambe, questa potenza lo fa alzare in piedi per la prima volta dopo due anni. Dopo aver giurato di capire il segreto di quelle sfere, Johnny decide di partecipare alla gara, e qui iniziano le sue bizzarre avventure per tutta l'America nella Steel Ball Run.[/Spoiler]",
-    views: 1622113,
-    id: 6272,
-    rating: {
-      bayesian: '9.33',
-    },
-    mainCover: 'https://mangadex.org/images/manga/6272.jpg',
-  },
+  
 ];
