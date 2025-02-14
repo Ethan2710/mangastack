@@ -33,7 +33,7 @@ export default [
     description:
       "Dragon Ball est le meilleur manga japonais créé par le défunt grand maitre Akira Toriyama.",
     views: 99999999999999999999,
-    id: '32fdfe9b-6e11-4a13-9e36-dcd8ea77b4e4',
+    id: '100011',
     rating: {
       bayesian: '10',
     },
@@ -46,7 +46,7 @@ export default [
     description:
       "Black Clover est un manga japonais créé par ONE et illustré par Yūki Tabata.",
     views: 9999999989999999,
-    id: '32d76d19-8a05-4db0-9fc2-e0b0648fe9d0',
+    id: '700006',
     rating: {
       bayesian: '10.00',
     },
