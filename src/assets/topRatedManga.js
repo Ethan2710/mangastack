@@ -1,57 +1,58 @@
 export default [
   {
-    title: 'One Punch Man',
-    artist: ['Yusuke Murata'],
-    author: ['ONE'],
+    title: 'One Piece',
+    artist: ['Eiichiro Oda'],
+    author: ['Eiichiro Oda'],
     description:
-      "One Punch Man est un manga japonais créé par ONE et illustré par Yusuke Murata.",
-    views: 99999999899,
-    id: '32d76d19-8a05-4db0-9fc2-e0b0648fe9d0',
+      'One Piece est un manga japonais créé par Eiichiro Oda',
+    views: 735044,
+    id: '700005',
     rating: {
       bayesian: '10.00',
     },
-    mainCover: 'https://fr.web.img6.acsta.net/pictures/17/02/27/17/41/046707.jpg',
+    mainCover: 'https://jumpg-assets.tokyo-cdn.com/secure/title/700005/title_thumbnail_portrait_list/326469.jpg?hash=ibIrwhI5h7XZ5__KnZMJnA&expires=2145884400',
   },
   {
-    title: 'Detective Conan',
-    artist: ['Denjiro Maru'],
-    author: ['Gosho Aoyama'],
+    title: 'SAKAMOTO DAYS',
+    artist: ['Yuto Suzuki'],
+    author: ['Yuto Suzuki'],
     description:
-      "Detective Conan est un manga japonais créé par Gosho Aoyama.",
+      "Sakamoto Days est un manga japonais créé par ONE et illustré par Yuto Suzuki.",
+    views: 9999999,
+    id: '100127',
+    rating: {
+      bayesian: '10.00',
+    },
+    mainCover: 'https://jumpg-assets.tokyo-cdn.com/secure/title/100127/title_thumbnail_portrait_list/313621.jpg?hash=0HpK9-UWS7urxNciRiGxQQ&expires=2145884400',
+  },
+  {
+    title: 'Bleach',
+    artist: ['Tite Kubo'],
+    author: ['Tite Kubo'],
+    description:
+      "Bleach est un manga japonais créé par Tite Kubo.",
     views: 1698463846313,
-    id: 'b0b721ff-c388-4486-aa0f-c2b0bb321512',
+    id: '100004',
     rating: {
-      bayesian: '9.99',
+      bayesian: '10.00',
     },
-    mainCover: 'https://www.manga-news.com/public/images/series/.detective-conan-manga-volume1_medium.webp',
+    mainCover: 'https://jumpg-assets.tokyo-cdn.com/secure/title/100004/title_thumbnail_portrait_list/311788.jpg?hash=ypRnsOPrqQTWm-GBTUArRQ&expires=2145884400',
   },
   {
-    title: 'Assassination Classroom',
-    artist: ['Yusei Matsui'],
-    author: ['Yusei Matsui'],
+    title: 'Naruto',
+    artist: ['Masashi Kishimoto'],
+    author: ['Masashi Kishimoto'],
     description:
-      "Assassination Classroom est un manga japonais créé par Yusei Matsui.",
-    views: 22334455661778899,
-    id: '9e03b2ca-5191-44a6-88b6-c0cd49d06b51',
+      "Naruto est un manga japonais créé par Masashi Kishimoto.",
+    views: 10000000001,
+    id: '100018',
     rating: {
-      bayesian: '9.37',
+      bayesian: '10.00',
     },
-    mainCover: 'https://m.media-amazon.com/images/I/61hHZvt7ytL.jpg',
+    mainCover: 'https://jumpg-assets.tokyo-cdn.com/secure/title/100018/title_thumbnail_portrait_list/313318.jpg?hash=vfQSOC-bbvsLAZyU8YSiQw&expires=2145884400',
   },
   
-  {
-    title: 'Blue Period',
-    artist: ['Yamaguchi Tsubasa'],
-    author: ['Yamaguchi Tsubasa'],
-    description:
-      'In his second to last year of high school, the dispassionate but studious, Yatora Yaguchi finally finds a calling in art. With no prior art experience, he decides to work towards applying to an art university.  A decision with potentially disastrous results.\r\n[hr][u][b]Russian / Русский:[/b][/u]\r\n[spoiler]Можно ли увлечься чем-то настолько, что ради этого вдруг решишь свернуть с намеченного ранее жизненного пути? Если вдруг поймешь, что выбранная до этого дорога, хоть и сулила благополучие в будущем, но не отражала истинного желания?\r\nС виду безалаберный Ятора Ягути на удивление своих друзей-разгильдяев преуспел в учёбе и по окончании школы мог поступить почти в любой университет. Однако сам парень большой радости от этого не испытывал. Велика задача &mdash; подтянуть предметы, нужно только приложить немного больше усилий, чем остальные. Скучно. Да и по мнению парня, гордиться тут нечем...\r\nЖгучая потребность в самореализации и отсутствие очевидного способа самовыражения так и довлели бы над Яторой, если бы однажды вечером пагубная привычка не привела его в школьный клуб изобразительного искусства. Увидев там картину Мори, он решает попробовать запечатлеть на холсте приглянувшийся ему городской пейзаж. Неумелая, нелепая, но старательно написанная картина всё же достигает сердец некоторых людей, и парень понимает, что таким образом, через искусство, может по-настоящему общаться с другими.\r\nТак стоит ли ради этого сворачивать с намеченного пути, даже если, вполне возможно, эта другая дорога в конце концов приведёт к пропасти?[/spoiler]\r\n[hr][b]Links:[/b]\r\n[*][url=https://twitter.com/28_3][img]https://i.imgur.com/dQCXZkU.png[/img] Artist&rsquo;s Twitter[/url]\r\n[*][url=https://www.pixiv.net/member.php?id=200342][img]https://i.imgur.com/oiVINmy.png[/img] Artist&rsquo;s Pixiv[/url]\r\n\r\nWinner of the 13th Manga Taisho Award in 2020.\r\nWinner of the 44th Kodansha Manga Awards for best general manga in 2020.\r\n\r\n[*][url=https://twitter.com/blueperiod_pr/status/1351363755209179139?s=21]Anime (Announcement)[/url]',
-    views: 735044,
-    id: 'f8e294c0-7c11-4c66-bdd7-4e25df52bf69',
-    rating: {
-      bayesian: '9.36',
-    },
-    mainCover: 'https://cdn.myanimelist.net/images/manga/2/204827.jpg',
-  },
+  
   {
     title:
       "JoJo's Bizarre Adventure Part 7 - Steel Ball Run (Official Colored)",
