@@ -31,7 +31,7 @@ export default [
     author: ['Tony Valente'],
     description:
       'Radiant est un manga japonais créé par Tony Valente.',
-    views: 170238278964421474174175258387693,
+    views: 17023827896442147419149849849895819,
     id: 'e78a489b-6632-4d61-b00b-5206f5b8b22b',
     rating: {
       bayesian: '10',
@@ -44,7 +44,7 @@ export default [
     author: ['Akira Toriyama'],
     description:
       "Dragon Ball est le meilleur manga japonais créé par le défunt grand maitre Akira Toriyama.",
-    views: 999999999999999999999999999999999999999999999999999,
+    views: 99999999999999999999,
     id: '32fdfe9b-6e11-4a13-9e36-dcd8ea77b4e4',
     rating: {
       bayesian: '10',
