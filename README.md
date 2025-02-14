@@ -18,11 +18,11 @@ Currently, the backend is hosted on Heroku free tier, which can sometimes lead t
 ## Project Status
 Pour installer le site
 
-git clone https://github.com/Ethan2710/stage.git
-renommer package-pour-install.json en package.json (tu peux écraser l'autre version)
-npm install
-npm audit fix --force
-npm run start
+- git clone https://github.com/Ethan2710/stage.git
+- renommer package-pour-install.json en package.json (tu peux écraser l'autre version)
+- npm install
+- npm audit fix --force
+- npm run start
 
 ## Project Status
 
