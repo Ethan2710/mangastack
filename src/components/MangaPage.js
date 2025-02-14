@@ -140,7 +140,7 @@ const MangaPage = ({ language, userMangaList }) => {
                     {userIsReading ? (
                       <Button
                         variant="contained"
-                        color="primary"
+                        color="red"
                         component={Link}
                         to={`/manga/${id}/chapter/${userLastReadChapter.chapterInfo.id}`}
                       >
@@ -150,7 +150,7 @@ const MangaPage = ({ language, userMangaList }) => {
                       chapters.length > 0 && (
                         <Button
                           variant="contained"
-                          color="primary"
+                          color="red"
                           component={Link}
                           to={`/manga/${id}/chapter/${
                             chapters[chapters.length - 1].id

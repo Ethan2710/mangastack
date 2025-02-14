@@ -54,9 +54,11 @@ const useStyles = makeStyles((theme) => ({
     [theme.breakpoints.only('xs')]: {
       paddingLeft: 11,
       paddingRight: 11,
+            
     },
+    backgroundColor:'black',
     paddingTop: 10,
-    paddingBottom: 10,
+    paddingBottom: 15,
   },
   backButton: {
     marginRight: theme.spacing(1),
@@ -70,9 +72,9 @@ const useStyles = makeStyles((theme) => ({
   search: {
     position: 'relative',
     borderRadius: theme.shape.borderRadius,
-    backgroundColor: fade(theme.palette.common.white, 0.15),
+    backgroundColor: fade(theme.palette.common.white, 0.35),
     '&:hover': {
-      backgroundColor: fade(theme.palette.common.white, 0.25),
+      backgroundColor: fade(theme.palette.common.white, 0.55),
     },
     marginRight: theme.spacing(2),
     marginLeft: theme.spacing(3),
@@ -190,7 +192,7 @@ const Header = ({
         <Toolbar className={classes.toolBar}>
           {historyPushes.length > 0 && (
           <IconButton
-            color="inherit"
+            color="black"
             aria-label="go back"
             edge="start"
             className={classes.backButton}
@@ -209,11 +211,11 @@ const Header = ({
               component={Link}
               to="/"
               style={{
-                color: 'inherit',
+                color: 'yellow',
                 textDecoration: 'none',
               }}
             >
-              Manga Stack
+              Bibliothèque de mangas Ethan
             </Typography>
           </Box>
           <div className={classes.search}>
@@ -226,7 +228,7 @@ const Header = ({
                 </IconButton>
               </Tooltip>
               <InputBase
-                placeholder="Search by title..."
+                placeholder="Cherchez un titre..."
                 classes={{
                   root: classes.inputRoot,
                   input: classes.inputInput,
@@ -238,7 +240,7 @@ const Header = ({
             </form>
           </div>
           <IconButton
-            color="inherit"
+            color="blacks"
             aria-label="open drawer"
             edge="end"
             onClick={() => setSidebarOpen(true)}

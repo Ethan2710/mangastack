@@ -83,17 +83,17 @@ const HomePage = () => {
         <Box p={2}>
           <Typography
             className={clsx(classes.siteTitle, classes.allcaps)}
-            variant="h1"
+            variant="h2"
             align="center"
           >
-            Manga Stack
+            Bibliothèque de mangas
         </Typography>
           <Typography
             className={clsx(classes.subtitle, classes.allcaps)}
             variant="subtitle1"
             align="center"
           >
-            Mobile friendly reader for MangaDex
+            Cliquez sur le boutton ci-dessous !!
         </Typography>
           <Divider className={classes.divider} />
           <div
@@ -112,7 +112,7 @@ const HomePage = () => {
               to="/manga/all"
               fullWidth
             >
-              View All Manga
+              Voir tout les meilleur mangas
             </Button>
           </div>
           <Box mb={7}>
@@ -120,7 +120,7 @@ const HomePage = () => {
               className={clsx(classes.subtitle, classes.allcaps)}
               variant="h6"
             >
-              Most Popular Manga
+              mangas les plus populaire !!!!
           </Typography>
 
             <Grid
@@ -136,7 +136,7 @@ const HomePage = () => {
               className={clsx(classes.subtitle, classes.allcaps)}
               variant="h6"
             >
-              Top Rated Manga
+              Mangas les mieux notés
           </Typography>
             <Grid
               container
